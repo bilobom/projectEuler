@@ -1,6 +1,6 @@
 # ProjectEuler
 
-solving project euler problem sets using javascript, jest to test each set 
+solving project euler problem sets using javascript, ES6 and jest to test each set 
 
 
 ### Prerequisites
@@ -31,7 +31,7 @@ yarn jest 001.test.js
 
 ## Authors
 
-* **Bilal Boumaad**  - [LinkedIn](https://linkedin.com/bilalboumaad)
+* **Bilal Boumaad**  - [LinkedIn](https://www.linkedin.com/in/bilalboumaad/)
 
 ## License
 

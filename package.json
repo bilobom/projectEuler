@@ -1,0 +1,17 @@
+{
+  "name": "projectEuler",
+  "version": "1.0.0",
+  "description": "solving problem sets from project euler using javascript",
+  "main": "index.js",
+  "repository": "https://github.com/bilobom/projectEuler.git",
+  "author": "bilal boumaad",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@types/jest": "^25.1.4",
+    "jest": "^25.1.0"
+  }
+}
